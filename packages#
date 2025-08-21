@@ -1,0 +1,3 @@
+download th packages first
+
+pip install tensorflow transformers datasets soundfile librosa
